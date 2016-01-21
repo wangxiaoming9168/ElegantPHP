@@ -1,0 +1,14 @@
+{
+	"description": "The ElegantPHP framework",
+	"name": "elegantphp/framework",
+	"type": "project",
+	"homepage": "http://elegantphp.me",
+	"license": "MIT",
+	"support": {
+		"forum": "http://forum.elegantphp.me/"
+	},
+	"require": {
+		"php": ">=5.4.0",
+                 "zircote/swagger-php":"*"
+	}
+}
